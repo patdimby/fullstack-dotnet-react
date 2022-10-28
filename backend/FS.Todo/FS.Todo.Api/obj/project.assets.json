@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "FS.Todo.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/FS.Todo.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FS.Todo.Core.dll": {}
+        }
+      },
+      "FS.Todo.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/FS.Todo.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FS.Todo.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FS.Todo.Core/1.0.0": {
+      "type": "project",
+      "path": "../FS.Todo.Core/FS.Todo.Core.csproj",
+      "msbuildProject": "../FS.Todo.Core/FS.Todo.Core.csproj"
+    },
+    "FS.Todo.Data/1.0.0": {
+      "type": "project",
+      "path": "../FS.Todo.Data/FS.Todo.Data.csproj",
+      "msbuildProject": "../FS.Todo.Data/FS.Todo.Data.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "FS.Todo.Core >= 1.0.0",
+      "FS.Todo.Data >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\patdi\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\GitHub\\fullstack-dotnet-react\\backend\\FS.Todo\\FS.Todo.Api\\FS.Todo.Api.csproj",
+      "projectName": "FS.Todo.Api",
+      "projectPath": "D:\\GitHub\\fullstack-dotnet-react\\backend\\FS.Todo\\FS.Todo.Api\\FS.Todo.Api.csproj",
+      "packagesPath": "C:\\Users\\patdi\\.nuget\\packages\\",
+      "outputPath": "D:\\GitHub\\fullstack-dotnet-react\\backend\\FS.Todo\\FS.Todo.Api\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\patdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\GitHub\\fullstack-dotnet-react\\backend\\FS.Todo\\FS.Todo.Core\\FS.Todo.Core.csproj": {
+              "projectPath": "D:\\GitHub\\fullstack-dotnet-react\\backend\\FS.Todo\\FS.Todo.Core\\FS.Todo.Core.csproj"
+            },
+            "D:\\GitHub\\fullstack-dotnet-react\\backend\\FS.Todo\\FS.Todo.Data\\FS.Todo.Data.csproj": {
+              "projectPath": "D:\\GitHub\\fullstack-dotnet-react\\backend\\FS.Todo\\FS.Todo.Data\\FS.Todo.Data.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-rc.2.22477.23\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\GitHub\fullstack-dotnet-react\backend\FS.Todo\FS.Todo.Data\bin\Debug\net6.0\FS.Todo.Data.deps.json
+D:\GitHub\fullstack-dotnet-react\backend\FS.Todo\FS.Todo.Data\bin\Debug\net6.0\FS.Todo.Data.dll
+D:\GitHub\fullstack-dotnet-react\backend\FS.Todo\FS.Todo.Data\bin\Debug\net6.0\FS.Todo.Data.pdb
+D:\GitHub\fullstack-dotnet-react\backend\FS.Todo\FS.Todo.Data\obj\Debug\net6.0\FS.Todo.Data.csproj.AssemblyReference.cache
+D:\GitHub\fullstack-dotnet-react\backend\FS.Todo\FS.Todo.Data\obj\Debug\net6.0\FS.Todo.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\fullstack-dotnet-react\backend\FS.Todo\FS.Todo.Data\obj\Debug\net6.0\FS.Todo.Data.AssemblyInfoInputs.cache
+D:\GitHub\fullstack-dotnet-react\backend\FS.Todo\FS.Todo.Data\obj\Debug\net6.0\FS.Todo.Data.AssemblyInfo.cs
+D:\GitHub\fullstack-dotnet-react\backend\FS.Todo\FS.Todo.Data\obj\Debug\net6.0\FS.Todo.Data.csproj.CoreCompileInputs.cache
+D:\GitHub\fullstack-dotnet-react\backend\FS.Todo\FS.Todo.Data\obj\Debug\net6.0\FS.Todo.Data.dll
+D:\GitHub\fullstack-dotnet-react\backend\FS.Todo\FS.Todo.Data\obj\Debug\net6.0\refint\FS.Todo.Data.dll
+D:\GitHub\fullstack-dotnet-react\backend\FS.Todo\FS.Todo.Data\obj\Debug\net6.0\FS.Todo.Data.pdb
+D:\GitHub\fullstack-dotnet-react\backend\FS.Todo\FS.Todo.Data\obj\Debug\net6.0\ref\FS.Todo.Data.dll
